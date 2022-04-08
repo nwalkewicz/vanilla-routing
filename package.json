@@ -1,0 +1,14 @@
+{
+  "name": "vanilla-routing",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-html-parser": "^5.3.3",
+    "nodemon": "^2.0.15"
+  }
+}

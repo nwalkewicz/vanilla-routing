@@ -1,0 +1,11 @@
+@import url('/normalize.css');
+
+body {
+	background-color: #fafafa;
+	font-family: 'Inter';
+}
+
+h1 {
+	font-family: 'Quicksand';
+	font-weight: 600;
+}
